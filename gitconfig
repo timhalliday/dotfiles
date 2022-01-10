@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thalliday793@gmail.com
+	name = Tim Halliday
